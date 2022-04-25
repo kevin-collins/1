@@ -1,0 +1,4 @@
+每个专家是128+ReLU
+gating是64+softmax
+DNN是64+32+ReLU
+Adam
